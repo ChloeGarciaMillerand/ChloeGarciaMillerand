@@ -1,16 +1,28 @@
-## Hi there 👋
+After working as an architect and a web designer, I am now transitioning to the development side. I truly enjoy the challenge of this career transition. Every day is an opportunity to learn new technologies and solve problems, and I am excited about the journey ahead as I build my skills in this dynamic field.
 
-<!--
-**ChloeGarciaMillerand/ChloeGarciaMillerand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## The technologies I work with
 
-Here are some ideas to get you started:
+### Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
+
+### Back-End
+
+#### Server
+
+![Express](https://img.shields.io/badge/Express-4.17.1-green?logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-14.0-green?logo=node.js&logoColor=white)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue?logo=postgresql&logoColor=white)
+
+## My design tools
+
+![Figma](https://img.shields.io/badge/Figma-3.0-blue?logo=figma&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-CC-red?logo=adobe&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-2.10-darkorange?logo=gimp&logoColor=white)
