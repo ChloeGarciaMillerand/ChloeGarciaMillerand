@@ -30,3 +30,17 @@ After working as an architect and a web designer, I am now transitioning to the 
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-CC-red?logo=adobe&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-2.10-darkorange?logo=gimp&logoColor=white)
 [![Procreate](https://img.shields.io/badge/Procreate-5.0-darkorange?logo=procreate&logoColor=white)](https://procreate.art/)
+
+## Projects
+
+📚 [Book Lover - Reading Tracker App – In Progress](https://github.com/ChloeGarciaMillerand/BookLover)
+🛠️ Technologies Used: Express, Node, Sequelize, Postgres, React
+
+🐱 [Maneki Neko - ids Game – In Progress](https://github.com/ChloeGarciaMillerand/ManekiNeko)
+🛠️ Technologies Used: HTML, CSS, JS
+![Maneki Neko](https://github.com/ChloeGarciaMillerand/ManekiNeko/raw/main/screenshots/maneki_neko_home.png)
+
+📸 [Photographer Portfolio – Showcase Website](https://github.com/ChloeGarciaMillerand/Showcase-website-project)
+🛠️ Technologies Used: HTML, CSS, JS, Express, Node, EJS, Postgres
+![Photographer](https://github.com/ChloeGarciaMillerand/Showcase-website-project/raw/main/Docs/previews/home.png)
+
