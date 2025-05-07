@@ -33,14 +33,22 @@ After working as an architect and a web designer, I am now transitioning to the 
 
 ## Projects
 
-📚 [Book Lover - Reading Tracker App – In Progress](https://github.com/ChloeGarciaMillerand/BookLover)
+### 📚 Book Lover - Reading Tracker App – In Progress
+[Book Lover](https://github.com/ChloeGarciaMillerand/BookLover)
+
 🛠️ Technologies Used: Express, Node, Sequelize, Postgres, React
 
-🐱 [Maneki Neko - ids Game – In Progress](https://github.com/ChloeGarciaMillerand/ManekiNeko)
+### 🐱 Maneki Neko - Kids Game – In Progress
+[Maneki Neko](https://github.com/ChloeGarciaMillerand/ManekiNeko)
+
 🛠️ Technologies Used: HTML, CSS, JS
+
 ![Maneki Neko](https://github.com/ChloeGarciaMillerand/ManekiNeko/raw/main/screenshots/maneki_neko_home.png)
 
-📸 [Photographer Portfolio – Showcase Website](https://github.com/ChloeGarciaMillerand/Showcase-website-project)
+### 📸 Photographer Portfolio – Showcase Website
+[Photographer Portfolio](https://github.com/ChloeGarciaMillerand/Showcase-website-project)
+
 🛠️ Technologies Used: HTML, CSS, JS, Express, Node, EJS, Postgres
+
 ![Photographer](https://github.com/ChloeGarciaMillerand/Showcase-website-project/raw/main/Docs/previews/home.png)
 
