@@ -34,7 +34,7 @@ After working as an architect and a web designer, I am now transitioning to the 
 ## Projects
 
 ### 📚 Book Lover - Reading Tracker App – In Progress
-[Book Lover](https://github.com/ChloeGarciaMillerand/BookLover)
+[Book Lover](https://github.com/Freyja-s-Triade/BookLover)
 
 🛠️ Technologies Used: Express, Node, Sequelize, Postgres, React
 
