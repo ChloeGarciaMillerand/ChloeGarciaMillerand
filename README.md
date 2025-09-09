@@ -12,6 +12,11 @@ After working as an architect and a web designer, I am now transitioning to the 
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-6.0-CA4245?logo=react-router&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-06B6D4?logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-3.0-F59E0B?logo=tailwind-css&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-1.0-06B6D4?logo=tailwind-css&logoColor=white)
 
 #### Tooling
 ![Vite](https://img.shields.io/badge/Vite-4.0-646CFF?logo=vite&logoColor=white)
@@ -24,6 +29,13 @@ After working as an architect and a web designer, I am now transitioning to the 
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue?logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-6.32-2F406A?logo=sequelize&logoColor=white)
+
+### Testing
+
+![Vitest](https://img.shields.io/badge/Vitest-1.0-6E9F18?logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-29.0-C21325?logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-1.0-45BA63?logo=microsoft&logoColor=white)
 
 ## My design tools
 ![Figma](https://img.shields.io/badge/Figma-3.0-blue?logo=figma&logoColor=white)
@@ -33,10 +45,18 @@ After working as an architect and a web designer, I am now transitioning to the 
 
 ## Projects
 
+### 🌱 Green Roots – Eshop for Tree Sponsorship – In Progress
+[Green Roots](https://github.com/ChloeGarciaMillerand/GreenRoots_Freyja)
+
+![GreenRoots](https://github.com/ChloeGarciaMillerand/GreenRoots_Freyja/blob/main/conception/UI/mockup/jpg/greenroots_mockup.jpg)
+
+
+🛠️ Technologies Used: React, React Router, CSS, Express, Node.js, PostgreSQL, Stripe, Vitest, Jest, Playwright
+
 ### 📚 Book Lover - Reading Tracker App – In Progress
 [Book Lover](https://github.com/Freyja-s-Triade/BookLover)
 
-🛠️ Technologies Used: Express, Node, Sequelize, Postgres, React
+🛠️ Technologies Used: React, React Router, Tailwind, DaisyUI, Express, Node, Sequelize, Postgres
 
 ### 🐱 Maneki Neko - Kids Game – In Progress
 [Maneki Neko](https://github.com/ChloeGarciaMillerand/ManekiNeko)
