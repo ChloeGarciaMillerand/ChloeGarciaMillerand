@@ -45,18 +45,17 @@ After working as an architect and a web designer, I am now transitioning to the 
 
 ## Projects
 
-### 🌱 Green Roots – Eshop for Tree Sponsorship – In Progress
+### 📚 Book Lover - Reading Tracker App – In Progress
+[Book Lover](https://github.com/ChloeGarciaMillerand/BookLover)
+
+🛠️ Technologies Used: React, React Router, Supabase, Tailwind, DaisyUI, Postgres
+
+### 🌱 Green Roots – Eshop for Tree Sponsorship – Team Project
 [Green Roots](https://github.com/ChloeGarciaMillerand/GreenRoots_Freyja)
 
 ![GreenRoots](https://github.com/ChloeGarciaMillerand/GreenRoots_Freyja/blob/main/conception/UI/mockup/jpg/greenroots_mockup.jpg)
 
-
 🛠️ Technologies Used: React, React Router, CSS, Express, Node.js, PostgreSQL, Stripe, Vitest, Jest, Playwright
-
-### 📚 Book Lover - Reading Tracker App – In Progress
-[Book Lover](https://github.com/Freyja-s-Triade/BookLover)
-
-🛠️ Technologies Used: React, React Router, Tailwind, DaisyUI, Express, Node, Sequelize, Postgres
 
 ### 🐱 Maneki Neko - Kids Game – In Progress
 [Maneki Neko](https://github.com/ChloeGarciaMillerand/ManekiNeko)
