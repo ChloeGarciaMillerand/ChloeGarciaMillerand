@@ -43,7 +43,7 @@ After working as an architect and a web designer, I am now transitioning to the 
 ![GIMP](https://img.shields.io/badge/GIMP-2.10-darkorange?logo=gimp&logoColor=white)
 [![Procreate](https://img.shields.io/badge/Procreate-5.0-darkorange?logo=procreate&logoColor=white)](https://procreate.art/)
 
-## Projects
+## Highlighted Projects
 
 ### 📚 Book Lover - Reading Tracker App – In Progress
 [Book Lover](https://github.com/ChloeGarciaMillerand/BookLover)
