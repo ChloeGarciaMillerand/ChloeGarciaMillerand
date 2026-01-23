@@ -49,7 +49,7 @@ After working as an architect and a web designer, I am now transitioning to the 
 ### 📚 Book Lover - Reading Tracker App – In Progress
 [Book Lover](https://github.com/ChloeGarciaMillerand/BookLover)
 
-![Booklover](https://github.com/ChloeGarciaMillerand/BookLover/blob/refacto-ui/booklover_mockup.png?raw=true)
+![Booklover](https://github.com/ChloeGarciaMillerand/BookLover/blob/main/booklover_mockup.png?raw=true)
 
 🛠️ Technologies Used: React, React Router, Supabase, Tailwind, DaisyUI, Postgres
 
