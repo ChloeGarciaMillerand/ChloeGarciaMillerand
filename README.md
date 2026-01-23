@@ -30,6 +30,7 @@ After working as an architect and a web designer, I am now transitioning to the 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-blue?logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-6.32-2F406A?logo=sequelize&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2.0-3F8EFC?logo=supabase&logoColor=white)
 
 ### Testing
 
